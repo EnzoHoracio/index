@@ -1,34 +1,39 @@
-<section class="chamada">
-    <div class="chamada-texto">
-        <h1>ATRAVÉS DO ARANHAVERSO</h1>
-        <p>#homem-aranha</p>
-    </div>
+<html>
+<head> 
+    <link rel="stylesheet" href="style.css">
+</head>
 
-    <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
-            title="YouTube video player" frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
-</section>
 
-<section class="categoria">
-    <h2>Filmes e séries</h2>
-    <div class="categoria-videos">
-        <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-            <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
-            <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
-            <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
-            <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=d4DzMNGoyis">
-            <img src="https://img.youtube.com/vi/d4DzMNGoyis/maxresdefault.jpg" />
-        </a>
-    </div>
-</section>
+<body>
+<div>
+<header>ALURAMUSIC</header>
+<p>Minhas muscas favoritas </p>]
+</div>
+
+<div>
+<h1>sex,drogs,etc.</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxVdg_ZOsXc?si=nQe_4P_ooWCnkksv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div>
+<h1>terça de tarde</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6mgYY1Vu6N0?si=o6Gfj3rtQA7zwDWf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div>
+<h1>e culpa do meu signo</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdijLnNoRps?si=tUqgQfFfd6p-uHXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div>
+<h1>Falling Down </h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1uoGJmcoZu4?si=Alc5iYQTl-5V2hSJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div>
+<h1>tipo rick morty</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/br8qyUSbuDI?si=nlsatMfd2I6YYdIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+</body>
+
+</html>
